@@ -1,0 +1,3 @@
+This is utility code to convert between common data types.
+I have stolen all of this from https://github.com/opencv-java/getting-started/tree/master/FXHelloCV
+I am much obliged for its functionality. I rely on it a great deal.
